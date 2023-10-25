@@ -1,14 +1,14 @@
 # DNN Watermarking Research Resources
 This Github repo collects helpful resources we found for the research topic **DNN Watermarking**. 
 
-We will take efforts to continuously updated on a *weekly* manner.
+We will take efforts to continuously updated on a *weekly* basis.
 
 ## Table of Contents
 - [Survey](#survey)
 - [Toolbox](#toolbox)
 - [Dissertation and Thesis](#dissertation-and-thesis)
-- [Supervised Learning (Image classification)](#Supervised Learning (Image classification)) 
-- [Diffusion Model](#Diffusion Model) 
+- [Supervised Learning (Image classification)](#Supervised Learning (Image classification))
+- [Diffusion Model](#Diffusion Model)
 - [Generative Adversarial Network](#Generative Adversarial Network)
 
 ## Survey
