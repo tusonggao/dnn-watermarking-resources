@@ -7,9 +7,9 @@ We will take efforts to continuously updated on a *weekly* basis.
 - [Survey](#survey)
 - [Toolbox](#toolbox)
 - [Dissertation and Thesis](#dissertation-and-thesis)
-- [Supervised Learning (Image classification)](#Supervised Learning (Image classification))
-- [Diffusion Model](#Diffusion Model)
-- [Generative Adversarial Network](#Generative Adversarial Network)
+- [Supervised Learning (Image classification)](#Supervised-Learning-Image-classification))
+- [Diffusion Model](#Diffusion-Model)
+- [Generative Adversarial Network](#Generative-Adversarial-Network)
 
 ## Survey
 - A survey of deep neural network watermarking techniques [[pdf]](https://arxiv.org/pdf/2103.09274)
