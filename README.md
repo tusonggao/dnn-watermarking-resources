@@ -1,5 +1,5 @@
-# Awesome DNN Watermarking Research Resources
-This Github repo collects helpful resources we found for the research topic **DNN Watermarking**. 
+# Awesome DNN Watermarking Research Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+This Github repo collects helpful resources we found pertaining to the research topic **DNN Watermarking**. 
 
 We will take efforts to continuously update this repo on a *weekly* basis.
 
