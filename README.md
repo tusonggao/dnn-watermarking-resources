@@ -1,4 +1,4 @@
-# Awesome DNN Watermarking Research Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome DNN Watermarking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This Github repo collects helpful resources we found pertaining to the research topic **DNN Watermarking**. 
 
 We will take efforts to continuously update this repo on a *weekly* basis.
@@ -64,6 +64,7 @@ We will take efforts to continuously update this repo on a *weekly* basis.
 | Year | Venue  | Paper                                                        | Code                                                         |
 |:----:|:------------:| ------------------------------------------------------------ |:------------------------------------------------------------:|
 | 2021 | CVPR | [Protecting Intellectual Property of Generative Adversarial Networks from Ambiguity Attacks](https://openaccess.thecvf.com/content/CVPR2021/papers/Ong_Protecting_Intellectual_Property_of_Generative_Adversarial_Networks_From_Ambiguity_Attacks_CVPR_2021_paper.pdf) | [:octocat:](https://github.com/dingsheng-ong/ipr-gan) |
+| 2022 | ICLR | [Responsible Disclosure of Generative Models Using Scalable Fingerprinting](https://openreview.net/pdf?id=sOK-zS6WHB) | [:octocat:](https://github.com/ningyu1991/ScalableGANFingerprints) |
 
 
 
