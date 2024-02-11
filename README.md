@@ -44,6 +44,7 @@ We will take efforts to continuously update this repo on a *weekly* basis.
 ## Supervised Learning (Image classification)
 | Year | Venue  | Paper                                                        | Code                                                         |
 |:----:|:------------:| ------------------------------------------------------------ |:------------------------------------------------------------:|
+| 2024 | S&P | [MEA-Defender: A Robust Watermark against Model Extraction Attack](https://arxiv.org/pdf/2401.15239.pdf) | [:octocat:](https://github.com/lvpeizhuo/MEA-Defender) |
 | 2023 | NeurIPS | [Domain Watermark Effective and Harmless Dataset Copyright Protection is Closed at Hand](https://www.researchgate.net/profile/Yiming-Li-36/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand/links/651e0a2ed717ef1293cc5df1/Domain-Watermark-Effective-and-Harmless-Dataset-Copyright-Protection-is-Closed-at-Hand.pdf) | [:octocat:](https://github.com/JunfengGo/Domain-Watermark) |
 | 2023 | ICML | [Trapdoor Normalization with Irreversible Ownership Verification](https://proceedings.mlr.press/v202/liu23an/liu23an.pdf) |  |
 | 2023 | TDSC | [RemovalNet: DNN Fingerprint Removal Attacks](https://arxiv.org/pdf/2308.12319.pdf) | [:octocat:](https://github.com/grasses/RemovalNet) |
@@ -52,6 +53,7 @@ We will take efforts to continuously update this repo on a *weekly* basis.
 | 2022 | ICLR | [Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization](https://arxiv.org/pdf/2106.06916.pdf) | [:octocat:](https://github.com/conditionWang/NTL) |
 | 2021 | ACM MM | [DAWN Dynamic Adversarial Watermarking of Neural Networks](https://arxiv.org/pdf/1906.00830) | [:octocat:](https://github.com/ssg-research/dawn-dynamic-adversarial-watermarking-of-neural-networks) |
 | 2021 | ICLR | [Deep Neural Network Fingerprinting by Conferrable Adversarial Examples](https://arxiv.org/pdf/1912.00888.pdf) | [:octocat:](https://github.com/ayberkuckun/DNN-Fingerprinting) |
+| 2021 | USENIX | [Entangled Watermarks as a Defense against Model Extraction](https://www.usenix.org/system/files/sec21fall-jia.pdf) | [:octocat:](https://github.com/cleverhans-lab/entangled-watermark) |
 | 2018 | AsiaCCS | [Protecting Intellectual Property of Deep Neural Networks with Watermarking](https://www.researchgate.net/profile/Zhongshu-Gu/publication/325480419_Protecting_Intellectual_Property_of_Deep_Neural_Networks_with_Watermarking/links/5c1cfcd4a6fdccfc705f2cd4/Protecting-Intellectual-Property-of-Deep-Neural-Networks-with-Watermarking.pdf) | |
 
 
