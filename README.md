@@ -46,10 +46,12 @@ We will take efforts to continuously update this repo on a *weekly* basis.
 |:----:|:------------:| ------------------------------------------------------------ |:------------------------------------------------------------:|
 | 2023 | NeurIPS | [Domain Watermark Effective and Harmless Dataset Copyright Protection is Closed at Hand](https://www.researchgate.net/profile/Yiming-Li-36/publication/374440504_Domain_Watermark_Effective_and_Harmless_Dataset_Copyright_Protection_is_Closed_at_Hand/links/651e0a2ed717ef1293cc5df1/Domain-Watermark-Effective-and-Harmless-Dataset-Copyright-Protection-is-Closed-at-Hand.pdf) | [:octocat:](https://github.com/JunfengGo/Domain-Watermark) |
 | 2023 | ICML | [Trapdoor Normalization with Irreversible Ownership Verification](https://proceedings.mlr.press/v202/liu23an/liu23an.pdf) |  |
+| 2023 | TDSC | [RemovalNet DNN Fingerprint Removal Attacks](https://arxiv.org/pdf/2308.12319.pdf) | [:octocat:](https://github.com/grasses/RemovalNet) |
 | 2022 | ICML | [Certified Neural Network Watermarks with Randomized Smoothing](https://proceedings.mlr.press/v162/bansal22a/bansal22a.pdf) | [:octocat:](https://github.com/arpitbansal297/certified_watermarks) |
 | 2022 | S&P | [Copy, Right A Testing Framework for Copyright Protection of Deep Learning Models](https://arxiv.org/pdf/2112.05588.pdf) | [:octocat:](https://github.com/Testing4AI/DeepJudge) |
 | 2021 | ACM MM | [DAWN Dynamic Adversarial Watermarking of Neural Networks](https://arxiv.org/pdf/1906.00830) | [:octocat:](https://github.com/ssg-research/dawn-dynamic-adversarial-watermarking-of-neural-networks) |
 | 2018 | AsiaCCS | [Protecting Intellectual Property of Deep Neural Networks with Watermarking](https://www.researchgate.net/profile/Zhongshu-Gu/publication/325480419_Protecting_Intellectual_Property_of_Deep_Neural_Networks_with_Watermarking/links/5c1cfcd4a6fdccfc705f2cd4/Protecting-Intellectual-Property-of-Deep-Neural-Networks-with-Watermarking.pdf) | |
+
 
 
 ## Diffusion Model
